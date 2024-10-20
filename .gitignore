@@ -1,0 +1,9 @@
+__pycache__/
+img/
+*.png
+*.jpg
+*.jpeg
+*.gif
+ml/best.pt
+ml/last.tflite
+uploaded_images
